@@ -35,17 +35,17 @@ To enable the datapack, copy the zip file under the releases directory into your
 
 ## Hard Rates
 
-#Rare chance 0.1% L3
+### Rare chance 0.1% L3
 {"chance"=>0.0001, "multiplier"=>0.0003}
-#Low chance 1.4% L3
+### Low chance 1.4% L3
 {"chance"=>0.005, "multiplier"=>0.003}
-#Mid chance 2.8% L3
+### Mid chance 2.8% L3
 {"chance"=>0.010, "multiplier"=>0.006}
-#Mid-High chance 9.5% L3
+### Mid-High chance 9.5% L3
 {"chance"=>0.05, "multiplier"=>0.015}
-#High chance 27% L3
+### High chance 27% L3
 {"chance"=>0.09, "multiplier"=>0.06}
-#Super high chance 54% L3
+### Super high chance 54% L3
 {"chance"=>0.09, "multiplier"=>0.15}
 
 
